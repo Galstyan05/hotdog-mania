@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hotdogmania.am/sitemap.xml
